@@ -5,7 +5,7 @@ A modern and interactive browser-based e-commerce website built with HTML5, Tail
 Nexora delivers a complete front-end shopping experience where users can browse products, search and filter items, manage their wishlist and shopping cart, authenticate through login and registration interfaces, and proceed through a login-protected checkout flow — all within a clean, responsive, and user-friendly interface.
 
 ## 🌐 Live Demo 
-👉 **[View Live Demo](https://uh-digital.github.io/nexora-online-store/)**
+👉 **[View Live Demo](https://usamacoder14.github.io/nexora-online-store/)**
 
 📸 Preview
 ![Nexora Preview](/assets/screenshot.png)
